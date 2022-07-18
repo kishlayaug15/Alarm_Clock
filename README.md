@@ -1,3 +1,5 @@
+##Alarm Clock
+
 This project is based on basic python code where i've used 4 modules i.e tkinter module, datetime module, time module, winsound module & threading module.
 
 In this project, I have mainly used tkinter module to create an alarm clock structure. Threading is a sequence of such instructions within a program that can be executed independently of other code. Here, I have created two functions namely threading & alarm. In order to start the execution of code I have used created threading fuction and the alarm function which i created contain the main core of my program where I set my alarm time and current time using time & datatime modules.
